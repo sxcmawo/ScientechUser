@@ -1,7 +1,3 @@
-# Scientech-app
+# ScientechUserApp
 
-A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+This project is a part of a solution proposed by the team "Scientech" for the "SheCodes 2.0" hackathon's InDrive case. It was made using low-code development tool for creating Flutter applications called FlutterFlow.
