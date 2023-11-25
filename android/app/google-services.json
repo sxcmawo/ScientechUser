@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "821930569175",
+    "project_id": "scientech-app",
+    "storage_bucket": "scientech-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821930569175:android:31df361f6b5a5a820e6f92",
+        "android_client_info": {
+          "package_name": "com.mycompany.scientechapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9WDZ0G0qztT2sCzZ6pBvcQ_qPr8vaNsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821930569175:android:dda0cbd119834d890e6f92",
+        "android_client_info": {
+          "package_name": "io.flutterflow.ridedriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9WDZ0G0qztT2sCzZ6pBvcQ_qPr8vaNsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
